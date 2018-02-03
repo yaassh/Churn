@@ -13,12 +13,15 @@ A telecommunications company is concerned about the number of customers leaving 
 
 The data set includes information about:
 
-1] Customers who left within the last month – the column is called Churn
-2] Services that each customer has signed up for – phone, multiple lines, internet, online security, online backup, device protection, tech support, and streaming TV and movies
-3] Customer account information – how long they’ve been a customer, contract, payment method, paperless billing, monthly charges, and total charges
-4]Demographic info about customers – gender, age range, and if they have partners and dependents
+1] Customers who left within the last month – the column is called Churn.
 
-Using exploratory analysis on the information provided, we have cleared a few outstanding questions, before moving ahead.
+2] Services that each customer has signed up for – phone, multiple lines, internet, online security, online backup, device protection, tech support, and streaming TV and movies.
+
+3] Customer account information – how long they’ve been a customer, contract, payment method, paperless billing, monthly charges, and total charges.
+
+4]Demographic info about customers – gender, age range, and if they have partners and dependents.
+
+## Using exploratory analysis on the information provided, we have cleared a few outstanding questions, before moving ahead.
 
 Firstly, we look at key drivers which influence customers to switch to another telecom provider.
 Using decision trees and word clouds, we determine that "Contract", "Internet Service", "Tenure" and "Total Charges" are the most important factors.
